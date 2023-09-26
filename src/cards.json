@@ -1,0 +1,31 @@
+{
+    "deck": {
+        "DaYhLrZOEttxPxtXaqcn": {
+            "front": "lilek",
+            "back": "aubergine",
+            "deck": 1,
+            "lastUpdated": {
+                "_seconds": 1632930000,
+                "_nanoseconds": 0
+            }
+        },
+        "q66htTHNcHikfYD4ZVJV": {
+            "front": "another front",
+            "back": "another back",
+            "deck": 2,
+            "lastUpdated": {
+                "_seconds": 1632843600, 
+                "_nanoseconds": 0
+            }
+        },
+        "wfYOvQXBtPD2yUpEhKNq": {
+            "front": "yet another front",
+            "back": "yet another back",
+            "deck": 3,
+            "lastUpdated": {
+                "_seconds": 1632757200,
+                "_nanoseconds": 0
+            }
+        }
+    }
+}
